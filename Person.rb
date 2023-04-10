@@ -1,4 +1,4 @@
-class person
+class Person
   attr_reader :id
   attr_accessor :name, :age
 
@@ -18,4 +18,5 @@ class person
   def of_age?
     @age >= 18
   end
+
 end

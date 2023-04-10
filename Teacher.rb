@@ -1,6 +1,6 @@
 require './person'
 
-class teacher < person
+class Teacher < Person
   attr_accessor :specialization
 
   def initialize(age, specialization, name = 'Unknown', parent_permission: true)
@@ -10,4 +10,5 @@ class teacher < person
   def can_use_services?
     true
   end
+
 end
