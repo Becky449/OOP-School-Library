@@ -45,7 +45,7 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd my-enumerable
+  cd oop-school-library
   git clone https://github.com/becky449/oop-school-library.git
 ```
 
