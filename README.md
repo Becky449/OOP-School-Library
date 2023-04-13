@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[my\-enumerable\] ](#-oop-school-library)
+- [📖 \[oop\-school\-library\] ](#-oop-school-library)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -32,10 +32,33 @@
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+## future-feature <a name="features"></a>
+### feature
 
+- add Person, Student, and Teacher classes.
+- use the "Decorator" design pattern.
+- set up associations.
 
-- **Its a Ruby project that leverages the use of a module inside a class**
+### feture
+
+- created classes
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- Laptop/Desktop.
+- Internet.
+- Ruby & Rail.
+- Object Oriented Programming(OOP)
+- Vs Code.
+
 
 ### Setup
 
@@ -45,7 +68,7 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd my-enumerable
+  cd oop-school-library
   git clone https://github.com/becky449/oop-school-library.git
 ```
 
