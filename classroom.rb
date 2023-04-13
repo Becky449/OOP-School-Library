@@ -11,3 +11,4 @@ class Classroom
     @student << student
     student.classroom = self if student.classroom != self
   end
+end
