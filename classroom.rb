@@ -1,4 +1,4 @@
-class classroom
+class Classroom
   attr_accessor :label
   attr_reader :student
 
@@ -11,4 +11,3 @@ class classroom
     @student << student
     student.classroom = self if student.classroom != self
   end
-end
