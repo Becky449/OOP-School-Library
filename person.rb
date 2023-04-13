@@ -1,4 +1,4 @@
-require './nameable.rb'
+require './nameable'
 
 class Person < Nameable
   attr_reader :id
@@ -18,7 +18,7 @@ class Person < Nameable
   def correct_name
     @name
   end
-  
+
   private
 
   def of_age?
