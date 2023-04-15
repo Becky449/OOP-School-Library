@@ -151,4 +151,6 @@ class App
     end
     puts 'Thank you for using this app!'
   end
+  # rubocop:enable Metrics/MethodLength
+  # rubocop:enable Metrics/CyclomaticComplexity
 end
